@@ -1,0 +1,10 @@
+weight: 3
+title: "풀-스택 모니터링"
+description: >
+  <ul class="list-style-none">
+    <li>인프라에서 서비스, 컨테이너 까지의 전 범위 모니터링 </li>
+    <li>자원, 네트워크, 볼륨, 상태에 대한 다수 매트릭 지원</li>
+    <li>이상, 장애에 대한 알람 관리</li>
+    <li>클라우드 미터링</li>
+  </ul>
+image: "img/carousel/template-easy-customize.png"
