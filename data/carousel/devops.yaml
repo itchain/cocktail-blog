@@ -1,0 +1,10 @@
+weight: 2
+title: "개발, 운영 효율화"
+description: >
+  <ul class="list-style-none">
+    <li>코드-빌드-배포-업데이트 파이프라인 자동화</li>
+    <li>서비스 중심 관리</li>
+    <li>시스템 기본 구성 템플릿 제공<br>(DB, 미들웨어, 도구 외) </li>
+    <li></li>
+  </ul>
+image: "img/carousel/template-mac.png"

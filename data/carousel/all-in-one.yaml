@@ -1,4 +1,10 @@
 weight: 1
-title: "All-in-One Container Management Platform"
-description: "<p>Build, Deploy, Monitoring and Operation</p>"
+title: "올인원 컨테이너 관리 플랫폼"
+description: >
+  <ul class="list-style-none">
+     <li>빌드에서 배포, 모니터링, 운영까지</li>
+     <li>높은 서비스 가용성과 확장성</li>
+     <li>쉽고 간편한 사용 환경</li>
+     <li>인프라에 독립적인 서비스 관리</li>
+   </ul>
 image: "img/carousel/template-homepage.png"
