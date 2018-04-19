@@ -1,4 +1,4 @@
-baseurl = "http://blog.acornsoft.io"
+baseurl = ""
 title = "Cocktail Cloud"
 theme = "hugo-universal-theme"
 themesDir = "themes"
